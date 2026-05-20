@@ -18,5 +18,11 @@ console.log('abhinav')
 console.log(typeof "abhinav"); //to know datatype
 console.log(typeof null); //null having datatype as object
 
+//Primitve
 
+//7 categories or types
 
+//string , number, boolean, null, undefined, symbol, BigInt
+
+// Reference type (Non - primitve)
+// Arrays , Objects, functions
